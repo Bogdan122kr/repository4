@@ -1,0 +1,52 @@
+.d1{
+    height: 400px;
+    width: 850px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(101,185,201,1) 39%, rgba(203,130,130,1) 57%, rgba(238,63,65,1) 86%);
+    margin-left: 10px;
+    display: flex;
+    margin-top: 50px;
+}
+img{
+    position: relative;
+    display: block;
+    height: 430px;
+    width: 430px;
+}
+.text{
+    font-size: 23p
+}
+.d2{
+    height: 400px;
+    width: 850px;
+    background: rgb(199,18,18);
+    background: linear-gradient(90deg, rgba(199,18,18,1) 30%, rgba(101,201,102,1) 74%);
+    margin-left: 10px;
+    display: flex;
+    margin-top: 50px;
+}
+.papa{
+justify-content: space-around;
+flex-wrap: wrap;
+display: flex;    
+}
+p{
+    font-size: 23px;
+}
+.d3{
+    height: 400px;
+    width: 850px;
+    background: rgb(199,18,18);
+background: linear-gradient(90deg, rgba(199,18,18,1) 30%, rgba(32,54,164,1) 74%);
+    margin-top: 30px;
+    display: flex;
+    
+}
+.d4{
+    height: 400px;
+    width: 850px;
+    background: rgb(199,18,18);
+background: linear-gradient(90deg, rgba(199,18,18,1) 30%, rgba(217,216,33,1) 74%);
+    margin-top: 30px;
+    display: flex;
+    
+}
